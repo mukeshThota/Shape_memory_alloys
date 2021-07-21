@@ -1,1 +1,2 @@
 # Shape_memory_alloys
+This project involved the study of NiTinol alloy under the shape memory effect.Analysed the transformation kinetics of the stress induced phases during the thermo-mechanical loading Plotted the variations of the martensitic and austenitic phase volume fractions and the deflection during the loading process and simulated the shape memory effect using graph animations in matlab
